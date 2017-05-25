@@ -1,2 +1,2 @@
 # alphaCalibration
-A c++ program for getting calibration parameters using a triple-alpha source calibration run at TRUIMF.
+A ROOT script for getting calibration parameters using a triple-alpha source calibration run at TRUIMF.
